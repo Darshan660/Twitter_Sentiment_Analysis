@@ -1,1 +1,2 @@
-# Twitter_Sentiment_Analysis
+# Real-Time-Twitter-Sentiment-Analysis
+The Twitter Sentiment Analysis is a tool that allows users to search for tweets related to a particular keyword and analyze their sentiment. Simply enter a keyword in the sidebar, select the number of tweets to analyze, and choose the sentiment type to display. The tool will perform sentiment analysis on the tweets and display the results in a data table, pie chart, and bar chart. This tool can be useful for businesses and individuals who want to track public opinion about a particular topic or brand on Twitter. 
