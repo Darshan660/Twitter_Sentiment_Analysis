@@ -47,7 +47,7 @@ def add_bg_from_local(image_files):
     ,
     unsafe_allow_html=True
     )
-add_bg_from_local([r'D:\College\SEM 6\Projects\Whatsapp Chat Analyzer\whatsapp-chat-analyzer\image_files\black-rotate.png', r'D:\College\SEM 6\Projects\Whatsapp Chat Analyzer\whatsapp-chat-analyzer\image_files\black-rotate.png'])
+add_bg_from_local([r'black-rotate.png', r'black-rotate.png'])
 
 # add a button to start the analysis
 if st.sidebar.button("Analyze"):
